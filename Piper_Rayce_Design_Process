@@ -1,0 +1,88 @@
+ Department of Construction Science, College of Architecture, Texas A&M University, College Station, TX, 2022.
+  "semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "IEEE"
+{Principles of Construction}
+And#
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Unit 1 Construction Drawing Organization"
+}
+# Chapter 1: Plan reading   1.1| Cover sheet
++Note
+  (Technical Terms)
+blueprint, building information modeling, computer-aided design and drafting, construction drawings, details, electrical plans, elevations, engineering copier, floor plan, HVAC, interior elevations, interpetations, longitudinal sections, mechanical plans, orthographic projection, pictorial drawing
+^-plan drawing, plans, plumbing plan, polyester film, print, print reading, rendering, schedules, sections, structural framing plans, title sheet, transverse sections, Uniform Drawing System, vellum, visualization, working drawings
+_~(Learing Objectives)
+*After completing this unit, you will be able to*
+-Explain why drawings are important in the construction industry.
+-Identify what is included in a set of construction drawings.
+-Describe how drawings and prints are made. 
+-Handle prints properly.
+And#
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Unit 2 Construction Math and Applications"
+}
+# Chapter 2: Plan reading   1.1| Cover sheet
++Note
+  (Technical Terms)
+arc, area, circumference, decimal fraction, denominator, diameter
+^-improper fraction, mixed number, numerator, pi, proper fraction, radius
+_~(Learning Objectives)
+*After completing this unit, you will be able to*
+-Convert between improper fractions and mixed numbers.
+-Add, subtract, multiply, and divide decimal fractions.
+-Calculate dimensions.
+-Calculate areas and volumes of objects.
+-Relate math to construction problems.
+And#
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Unit 3 Reading Measuring Tools and Using Scales"
+}
+# Chapter 3: Plan reading   1.1| Cover sheet
++Note
+  (Technical Terms)
+architect's scale, centimeter (cm), engineer's scale, fractional rule, full-divided scale, meter (m)
+^-metric rule, metric scale, millimeter (mm), open-divided scale, scale
+_~(Learning Objectives)
+*After completing this unit, you will be able to*
+-Read both customary (foreign) and metric rules and tapes.
+-Convert between customary and mnetric units.
+-Identify the drawing scale of a print.
+-Read dimensions on a print. 
+-Make measurements using an architect's scale. 
+-Make measurements using an engineer's scale. 
+And#
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Fasttracking"
+}
+Shortening a Schedule - P70
+Proving a hypothesis - P71
+DPR Construction Application - P72
