@@ -1,0 +1,43 @@
+ Department of Construction Science, College of Architecture, Texas A&M University, College Station, TX, 2022.
+  "semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "IEEE"
+{Principles of Construction}
+And#
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Unit 1 Construction Drawing Organization"
+}
+# Chapter 3: Diagrams   1.1| Cover sheet
+Diagrams are helpful when learning system processing applications. They will show a start, a layout execution, and an expected reading or outcome.
+Reading a diagram - helpful tips.
+  First, find where the diagram begins. This might be easier if you are familiar with the equipment designations.
+  Next, follow a natural, logical, typical path. Contrary to belief, diagrams will follow a path of least resistance. 
+General question - When may a diagram NOT follow the above statement?
+  Then, go all the way through until you reach the end of the diagram, or a break in the drawing.
+  Finally, refer to any note sections that may give you any information to the specifics of the diagram.
+A: A diagram my not follow a natural, logical, typical path if a U.N.O is stated.
+OR
+A: An addendum is issued.
+||
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Fasttracking"
+}
+Shortening a Schedule - P70
+Proving a hypothesis - P71
+DPR Construction Application - P72
