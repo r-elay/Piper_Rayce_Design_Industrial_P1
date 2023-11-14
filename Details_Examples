@@ -18,6 +18,19 @@ And#
   "arrowParens": "Unit 1 Construction Drawing Organization"
 }
 # Chapter 5: Details Examples  1.1| Cover sheet
+Reference comments.
 Drop drum detail 
 Roof curb detail (Typical)
 Unit curb detail (Typical)
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Fasttracking"
+}
+Shortening a Schedule - P70
+Proving a hypothesis - P71
+DPR Construction Application - P72
