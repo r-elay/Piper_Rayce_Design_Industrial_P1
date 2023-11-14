@@ -1,0 +1,42 @@
+Department of Construction Science, College of Architecture, Texas A&M University, College Station, TX, 2022.
+  "semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "IEEE"
+{Principles of Construction}
+And#
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Unit 1 Construction Drawing Organization"
+}
+# Chapter 2: Plan view   1.1| Cover sheet
+Plan view, or plan drawing, gives a look into the building as if you wer looking from above. This is to allow the use of grid lines to give destinations for certain elements of the building construction.
+  a) I find plan views most helpful for placement of 
+      1) Roof top unit
+      2) Natural gas lines
+      3) Wall dimensions
+Notes are also introduced. A note may be designated by a symbol, (C Program to Print Diamond Pattern, C Program to Print Circle Pattern, C Program to Print Square Pattern) and a number. These notes give specific instructions pertaining to the given area. ^-(C Program to Print Diamond 1)|_(C Program to Print Circle T). Space temp sensor. Mount 15'-0" A.F.F on column (typical)
+Finally, a scale is introduced when reading plans, as dimensions on paper will not always accurately translate to the field. That is why it is always handy to have either an architect or engineer ruler to have a proper dimension.
+- If an engineer scale were to read 1" = 20'-0", you would set your ruler to the correct scale, and every inch would be equal to 20 feet. 
+- Architect scales will work in a similar fashion, where you will set the correct scale, equal it 0, and add as needed.
+And#
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Fasttracking"
+}
+Shortening a Schedule - P70
+Proving a hypothesis - P71
+DPR Construction Application - P72
