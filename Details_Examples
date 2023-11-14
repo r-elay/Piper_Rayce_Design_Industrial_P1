@@ -1,0 +1,23 @@
+Department of Construction Science, College of Architecture, Texas A&M University, College Station, TX, 2022.
+  "semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "IEEE"
+{Principles of Construction}
+And#
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Unit 1 Construction Drawing Organization"
+}
+# Chapter 5: Details Examples  1.1| Cover sheet
+Drop drum detail 
+Roof curb detail (Typical)
+Unit curb detail (Typical)
