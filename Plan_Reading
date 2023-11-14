@@ -1,0 +1,56 @@
+Department of Construction Science, College of Architecture, Texas A&M University, College Station, TX, 2022.
+  "semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "IEEE"
+{Principles of Construction}
+And#
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Unit 1 Construction Drawing Organization"
+}
+# Chapter 1: Plan reading   1.1| Cover sheet
+Typically consists of
+  a) P.O.C - Licensed Professional
+  b) Project specifications
+  c) Legends & symbols
+  d) Scope of work
+General Question - What is the difference between a specification and a scope of work?
+A: A Specifications will typically have contractor specific requests, while a scope of work typically has building specific requests.
+  An example of this is:
+A firehouse room on a warehouse is the scope of work needed to be completed on a project. The contractor needs to follow the specifications regarding the duct work to comply with the code standards.
+And#
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Unit 1 Construction Drawing Organization - Abbreviations"
+}
+1) P.O.C - Point of contact (May vary by plans. Always refer to notes when identifying symbols, abbreviations, etc.)
+  . U.N.O may be written as U.O.N, and may have the same meaning. 
+2) A.F.F - Above finished floor.
+3) Ea. - Each.
+4) O.C - On center.
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Fasttracking"
+}
+Shortening a Schedule - P70
+Proving a hypothesis - P71
+DPR Construction Application - P72
