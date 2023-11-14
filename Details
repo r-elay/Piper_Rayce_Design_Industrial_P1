@@ -1,0 +1,41 @@
+Department of Construction Science, College of Architecture, Texas A&M University, College Station, TX, 2022.
+  "semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "IEEE"
+{Principles of Construction}
+And#
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Unit 1 Construction Drawing Organization"
+}
+# Chapter 4: Details   1.1| Cover sheet
+Details provide useful information and are item specific. Details are identified as such. ^-(C Program to Print Section Cutting Line Symbol Detail "X")(C Program to Print Section Cutting Line Symbol Sheet # "Ya.b").
+There are 3 views that may be applied to a drawing or piece of equipment.
+  1) A top view
+  2) A side view
+  3) An isometric view
+    3a) Isometric views are 3-D views that give the viewer a real life idea of what they would be grasping if they had the part in front of them.
+Advice on trying to systemmatically read details with tons of information.
+  - DON'T!
+  -But if necessary, try to break it into sections vertically. Then, read from left to right and work up. Try to think of it as if you were actually constructing the section piece.
+{
+"semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "Fasttracking"
+}
+Shortening a Schedule - P70
+Proving a hypothesis - P71
+DPR Construction Application - P72
